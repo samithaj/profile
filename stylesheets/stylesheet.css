@@ -331,10 +331,8 @@ Full-Width Styles
 
 #project_tagline {
   color: #fff;
-  top: 30px;
-  right: 5px;
-  margin-top: -50px;  
-  margin-left: 100px;
+  align:right
+  
   font-size: 18px;
   font-weight: 300;
   background: none;
