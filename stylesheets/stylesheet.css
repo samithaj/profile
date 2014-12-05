@@ -292,7 +292,8 @@ Full-Width Styles
   position: absolute;
   left: 10px;
   z-index: 10;
-  padding: 100px 500px 100px 100px;
+  height:200px;
+  width:200px;
   color: #fff;
   background: url('../images/hasitha.jpg');
   background-size: 200px 200px;
@@ -300,10 +301,10 @@ Full-Width Styles
   
   font-weight: 700;
   box-shadow: 0 0 10px rgba(0,0,0,.5);
-  border-bottom-left-radius: 5px;
-  border-bottom-right-radius: 5px;
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 }
 
 #header_wrap {
