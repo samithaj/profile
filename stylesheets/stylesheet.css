@@ -196,6 +196,9 @@ blockquote {
   border-left: 3px solid #bbb;
 }
 
+b { 
+    font-weight: bold;
+}
 
 ul, ol, dl {
   margin-bottom: 15px
