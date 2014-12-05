@@ -294,7 +294,10 @@ Full-Width Styles
   z-index: 10;
   padding: 100px 500px 100px 100px;
   color: #fff;
-  background: url('../images/hasitha.jpg') #0090ff no-repeat 95% 50%;
+  background: url('../images/hasitha.jpg');
+  background-size: 200px 200px;
+  background-repeat: no-repeat;
+  
   font-weight: 700;
   box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
