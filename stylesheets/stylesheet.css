@@ -198,6 +198,7 @@ blockquote {
 
 b { 
     font-weight: bold;
+    color : rgb(107, 111, 113);
 }
 
 ul, ol, dl {
@@ -281,8 +282,8 @@ Full-Width Styles
   right: 10px;
   z-index: 10;
   padding: 10px 50px 10px 10px;
-  color: #075FB6;
-  background: url('../images/LinkedIn.jpg') #0090ff no-repeat 95% 50%;
+  color: #080808;
+  background: url('../images/LinkedIn.jpg') #49A0E4 no-repeat 95% 50%;
   font-weight: 700;
   box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
