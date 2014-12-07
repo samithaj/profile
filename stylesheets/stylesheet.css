@@ -299,7 +299,7 @@ ul#menu li a:hover {
 .inner {
   position: relative;
   max-width: 756px;
-  padding: 50px 25px;
+  padding: 3px 25px;
   margin: 0 auto;
 }
 
@@ -416,9 +416,9 @@ ul#menu li a:hover {
 }
 
 #main_content {
-  padding-top: 4px;
+  padding-top: 8px;
   width: 756px;
-  height: 600px;
+  height: 700px;
   overflow-y :scroll;
 }
 
