@@ -297,7 +297,7 @@ ul#menu li a:hover {
   margin: 0 auto;
 }
 
-#forkme_banner {
+a#forkme_banner {
   display: block;
   position: absolute;
   top:0;
@@ -312,7 +312,7 @@ ul#menu li a:hover {
   border-bottom-right-radius: 2px;
 }
 
-#images {
+a#images {
   display: inline;
   position: absolute;
   left: 10px;
