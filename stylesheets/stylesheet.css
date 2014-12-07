@@ -275,7 +275,7 @@ ul#menu li {
 
 ul#menu li a {
     background-color: #ffffff;
-    padding: 10px 15px;
+    padding: 7px 13px;
     text-decoration: none;
     color: #100F0F;
     border-radius: 0px 5px 0px 5px;
@@ -292,7 +292,7 @@ ul#menu li a:hover {
 
 .inner {
   position: relative;
-  max-width: 900px;
+  max-width: 756px;
   padding: 50px 25px;
   margin: 0 auto;
 }
