@@ -417,6 +417,7 @@ ul#menu li a:hover {
 
 #main_content {
   padding-top: 4px;
+  overflow: scroll;
 }
 
 #footer_wrap {
