@@ -1,3 +1,3 @@
 console.log('This would be the main JS file.');
-document.getElementById("find _me").innerHTML ="<a id='forkme_banner' href='https://www.linkedin.com/profile/view?id=332490719&trk=nav_responsive_tab_profile'>Find me on LinkedIn</a>"; 
+document.getElementById("find _me").innerHTML ="vagjek"+"<a id='forkme_banner' href='https://www.linkedin.com/profile/view?id=332490719&trk=nav_responsive_tab_profile'>Find me on LinkedIn</a>"; 
 document.getElementById("nav").innerHTML ="<ul id='menu'>" + "<li><a href='Index.html'>About Me</a></li>" + "<li><a href='education.html'>Education</a></li>" + "<li><a href='honors.html'>Honors & Awards</a></li>" + "<li><a href='experience.html'>Experience</a></li>" + "<li><a href='projects.html'>Projects</a></li=>" + "<li><a href='skills.html'>Skills</a></li>" + "<li><a href='interests.html'>Interests</a></li></ul>";
