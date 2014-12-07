@@ -270,14 +270,14 @@ ul#menu {
 
 ul#menu li {
     display: inline;
-    margin-right: 3px;
+    margin-right: 0px;
 }
 
 ul#menu li a {
     background-color: #ffffff;
     padding: 10px 20px;
     text-decoration: none;
-    color: #696969;
+    color: #100F0F;
     border-radius: 4px 4px 0 0;
 }
 
@@ -297,7 +297,7 @@ ul#menu li a:hover {
   margin: 0 auto;
 }
 
-a#forkme_banner {
+#forkme_banner {
   display: block;
   position: absolute;
   top:0;
@@ -312,7 +312,7 @@ a#forkme_banner {
   border-bottom-right-radius: 2px;
 }
 
-a#images {
+#images {
   display: inline;
   position: absolute;
   left: 10px;
