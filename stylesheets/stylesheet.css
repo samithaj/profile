@@ -417,13 +417,14 @@ ul#menu li a:hover {
 
 #main_content {
   padding-top: 4px;
-  width: 150px;
-  height: 150px;
-  overflow: scroll;
+  width: 756px;
+  height: 600px;
+  overflow-y :scroll;
 }
 
 #footer_wrap {
   background: #212121;
+  
 }
 
 
