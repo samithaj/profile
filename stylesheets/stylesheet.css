@@ -133,15 +133,8 @@ strong {
 }
 
 img {
-  position: relative;
-  margin: 0 auto;
-  max-width: 739px;
-  padding: 5px;
-  margin: 10px 0 10px 0;
-  border: 1px solid #ebebeb;
-  
-  box-shadow: 0 0 5px #ebebeb;
-  -webkit-box-shadow: 0 0 5px #ebebeb;
+  position: absolute;
+  -webkit-box-shadow: 0 0 5px #454242;
   -moz-box-shadow: 0 0 5px #ebebeb;
   -o-box-shadow: 0 0 5px #ebebeb;
   -ms-box-shadow: 0 0 5px #ebebeb;
@@ -299,23 +292,13 @@ ul#menu li a:hover {
 .inner {
   position: relative;
   max-width: 756px;
-  padding: 3px 25px;
+  padding: 0px 25px;
   margin: 0 auto;
 }
 
-#forkme_banner {
-  display: block;
-  position: absolute;
-  top:4px;
+#linkedin {
+  top: 4px;
   right: 10px;
-  z-index: 10;
-  padding: 10px 50px 10px 10px;
-  color: #080808;
-  background: url('../images/LinkedIn.jpg') #49A0E4 no-repeat 95% 50%;
-  font-weight: 700;
-  box-shadow: 0 0 10px rgba(0,0,0,.5);
-  border-bottom-left-radius: 9px;
-  border-top-right-radius: 9px;
 }
 
 #images {
