@@ -269,7 +269,7 @@ form {
 Full-Width Styles
 *******************************************************************************/
 ul#menu {
-    padding-top: 60px;
+    padding-top: 0px;
     margin-bottom: 8px;
 }
 
@@ -281,7 +281,7 @@ ul#menu li {
 
 ul#menu li a {
     background-color: #ffffff;
-    padding: 7px 13px;
+    padding: 7px 9.5px;
     text-decoration: none;
     color: #100F0F;
     border-radius: 0px 6px 0px 6px;
