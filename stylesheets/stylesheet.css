@@ -1,4 +1,5 @@
 /*******************************************************************************
+/*******************************************************************************
 Slate Theme for GitHub Pages
 by Jason Costello, @jsncostello
 *******************************************************************************/
@@ -8,12 +9,6 @@ by Jason Costello, @jsncostello
 /*******************************************************************************
 MeyerWeb Reset
 *******************************************************************************/
-*{
-	-webkit-box-sizing:border box;
-	-moz-box-sizing:border-box;
-	-ms-box-sizing:border-box;
-	box-sizing:border-box;
-}
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -281,7 +276,7 @@ ul#menu li {
 
 ul#menu li a {
     background-color: #ffffff;
-    padding: 7px 9.5px;
+    padding: 7px 13px;
     text-decoration: none;
     color: #100F0F;
     border-radius: 0px 6px 0px 6px;
@@ -298,7 +293,7 @@ ul#menu li a:hover {
 
 .inner {
   position: relative;
-  max-width: 700px;
+  max-width: 756px;
   padding: 0px 25px;
   margin: 0 auto;
 }
@@ -400,7 +395,7 @@ ul#menu li a:hover {
 
 #main_content {
   padding-top: 8px;
-  width: 700px; 
+  width: 756px;
   height: 700px;
   overflow-y :scroll;
 }
