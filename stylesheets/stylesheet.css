@@ -394,7 +394,7 @@ ul#menu li a:hover {
 
 #main_content {
   padding-top: 8px;
-  width: 700px;
+  width: 700px; 
   height: 700px;
   overflow-y :scroll;
 }
