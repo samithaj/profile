@@ -304,12 +304,11 @@ ul#menu li a:hover {
 }
 
 #google {
-  top: 7px;
-  right: 117px;
-  height: 44px;
-  width: 44px;
-  border-radius: 8px 8px 8px 8px;
-}
+  top: 8px;
+ right: 117px;
+ height: 43px;
+ width: 43px;
+ border-radius: 8px 8px 8px 8px
 
 #twitter {
   top: 4px;
