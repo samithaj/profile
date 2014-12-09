@@ -160,7 +160,7 @@ hr {
     display: block;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
-    margin-left: -50px;
+    margin-left: -40px;
     margin-right: auto;
     border-style: solid;
     border-width:  1.5px;
@@ -267,7 +267,7 @@ ul#menu li a:hover {
 .inner {
   position: relative;
   max-width: 756px;
-  padding: 0px 05px;
+  padding: 0px 20px;
   margin: 0 auto;
 }
 
@@ -421,11 +421,4 @@ Small Device Styles
   h6 {
     font-size: 12px;
   }
-
-  code, pre {
-    min-width: 320px;
-    max-width: 480px;
-    font-size: 11px;
-  }
-
 }
