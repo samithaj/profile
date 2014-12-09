@@ -311,7 +311,7 @@ ul#menu li a:hover {
 #images {
   display: inline;
   position: absolute;
-  left: 10px;
+  left: 20px;
   z-index: 10;
   height:190px;
   width:190px;
@@ -338,7 +338,7 @@ ul#menu li a:hover {
 }
 
 #header_wrap .inner {
-  padding: 30px 10px 0px 10px;
+  padding: 30px 10px 0px 15px;
 }
 
 #project_title {
