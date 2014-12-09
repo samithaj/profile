@@ -292,7 +292,7 @@ ul#menu li a:hover {
 }
 
 #header_wrap .inner {
- 
+  padding: 3% 1% 0px 0%; 
 }
 
 #project_title {
