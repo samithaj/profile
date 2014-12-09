@@ -237,7 +237,7 @@ form {
 Full-Width Styles
 *******************************************************************************/
 ul#menu {
-    padding-top: 0px;
+    padding-top: 50px;
     margin-bottom: 8px;
 }
 
@@ -367,7 +367,7 @@ ul#menu li a:hover {
 }
 
 #main_content {
-  padding-top: 8px;
+  padding-top: 10px;
   width: 756px;
   height: 700px;
   overflow-y :scroll;
