@@ -193,6 +193,7 @@ Full-Width Styles
 ul#menu {
     padding-top: 7%;
     margin-bottom: 0.9%;
+    margin-left: 2%;
 }
 
 ul#menu li {
@@ -226,40 +227,40 @@ ul#menu li a:hover {
 }
 
 #linkedin {
-  top: 4px;
-  right: 169px;
-  height: 50px;
-  width: 50px;
+ top: 1.2%;
+ right: 22.7%;
+ height: 15%;
+ width: 6.8%;
 }
 
 #google {
- top: 8px;
- right: 117px;
- height: 43px;
- width: 43px;
+ top: 2.3%;
+ right: 15.8%;
+ height: 12.7%;
+ width: 5.8%;
  border-radius: 8px 8px 8px 8px
 }
 
 #twitter {
-  top: 4px;
-  right: 60px;
-  height: 50px;
-  width: 50px;
+ top: 1.4%;
+ right: 8%;
+ height: 14.8%;
+ width: 6.8%;
 }
 
 #facebook {
-  top: 4px;
-  right: 6px;
-  height: 50px;
-  width: 50px;
+ top: 1.5%;
+ right: 1%;
+ height: 14.7%;
+ width: 6.8%;
   
 }
 
 #download {
-  top: 7px;
-  right: 221px;
-  height: 45px;
-  width: 45px;
+ top: 2%;
+ right: 29.7%;
+ height: 13.5%;
+ width: 6%;
 }
 
 #images {
@@ -267,11 +268,11 @@ ul#menu li a:hover {
   position: absolute;
   left: 20px;
   z-index: 10;
-  height:190px;
-  width:190px;
+  height: 55%;
+  width: 27%;
   color: #fff;
   background: url('../images/hasitha.jpg');
-  background-size: 200px 200px;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
   
   font-weight: 700;
@@ -292,7 +293,7 @@ ul#menu li a:hover {
 }
 
 #header_wrap .inner {
-  padding: 3% 1% 0px 0%; 
+  padding: 3% 1% 0% 0%; 
 }
 
 #project_title {
