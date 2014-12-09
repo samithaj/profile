@@ -283,6 +283,7 @@ ul#menu li a:hover {
 }
 
 #header_wrap {
+  display: flex;
   background: #212121;
   background: -moz-linear-gradient(top, #373737, #212121);
   background: -webkit-linear-gradient(top, #373737, #212121);
