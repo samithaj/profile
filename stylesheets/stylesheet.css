@@ -234,7 +234,7 @@ dl p {
 }
 
 
-}
+
 
 table {
   border: 1px solid #373737;
@@ -271,6 +271,7 @@ ul#menu li {
     display: inline;
     margin-right: 0px;
 }
+
 
 ul#menu li a {
     background-color: #ffffff;
