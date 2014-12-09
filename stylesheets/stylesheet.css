@@ -191,8 +191,8 @@ ul {
 Full-Width Styles
 *******************************************************************************/
 ul#menu {
-    padding-top: 50px;
-    margin-bottom: 8px;
+    padding-top: 7%;
+    margin-bottom: 1%;
 }
 
 ul#menu li {
@@ -306,8 +306,8 @@ ul#menu li a:hover {
 
 #project_tagline {
   color: #fff;
-  margin-top: 71px;  
-  margin-left: 251px;
+  margin-top: 10%;
+  margin-left: 40%;
   font-size: 18px;
   font-weight: 300;
   background: none;
@@ -376,12 +376,6 @@ Small Device Styles
   }
 
   h6 {
-    font-size: 12px;
-  }
-
-  code, pre {
-    min-width: 320px;
-    max-width: 480px;
     font-size: 12px;
   }
 
